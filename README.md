@@ -1,4 +1,4 @@
-A2: Connected Components in Apache Spark
+# A2: Connected Components in Apache Spark
 
 Problem
 Your task in this assignment is to implement efficient end-to-end Apache Spark program for finding connected components. We make several assumptions:
